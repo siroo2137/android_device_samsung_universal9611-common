@@ -57,9 +57,9 @@ ro.product_ship=true
 ## RIL
 ro.carrier=unknown
 vendor.sec.rild.libpath=/vendor/lib64/libsec-ril.so
-ro.telephony.default_network=10,10
+ro.telephony.default_network=9,9
 ro.config.vc_call_vol_steps=10
-ro.vendor.sec.radio.def_network=10,10
+ro.vendor.sec.radio.def_network=9,9
 
 # Set csc support in OMX
 # If not set or set to 0, OMX will only use BT.601 colorspace.
